@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+* [Key things to know](key-things-to-know.md)
+
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1/)
   *  Day 2
