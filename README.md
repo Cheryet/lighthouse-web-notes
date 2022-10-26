@@ -16,5 +16,6 @@
   * [Weekend](/Week_1/Weekend/)
 
 * [Week 2]()
-  * [Day 1]()
-  
+  * [Day 1](https://github.com/ChristianNally/web-2022-Oct-17-west-samples/tree/main/w02d1)
+  * [Day 2](https://github.com/ChristianNally/web-2022-Oct-17-west-samples/tree/main/w02d2)
+  * [Day 3]()  
